@@ -5,3 +5,4 @@
 - The project has been written in Spanish.
 - The implementation of this project was carried out with Python version 3.11.5 given the grade version 3.48.0 as the use of an interface for the end user.
 - Due to the large size of the training folder, compression was carried out by fragmenting it into 3 .rar files.
+- The data used for training and testing the models was obtained from https://www.kaggle.com/datasets/rayhanzamzamy/non-and-biodegradable-waste-dataset
