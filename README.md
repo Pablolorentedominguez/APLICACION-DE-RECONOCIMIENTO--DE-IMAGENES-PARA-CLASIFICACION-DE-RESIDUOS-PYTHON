@@ -1,8 +1,7 @@
-# IMAGE RECOGNITION APPLICATION FOR WASTE CLASSIFICATION
+# APLICACIÓN DE RECONOCIMIENTO DE IMAGEN PARA CLASIFICACIÓN DE RESIDUOS
 
 
-- This repository is a project carried out for the completion of a master's degree in Data Science
-- The project has been written in Spanish.
-- The implementation of this project was carried out with Python version 3.11.5 given the Gradio version 3.48.0 as the use of an interface for the end user.
-- Due to the large size of the training folder, compression was carried out by fragmenting it into 3 .rar files.
-- The data used for training and testing the models was obtained from https://www.kaggle.com/datasets/rayhanzamzamy/non-and-biodegradable-waste-dataset
+- Este repositorio es un proyecto realizado para la realización de una maestría en Ciencia de Datos
+- La implementación de este proyecto se realizó con Python versión 3.11.5 debido a la compatibilidad con la Gradio en su versión 3.48.0 para el usuario final.
+- Debido al gran tamaño de la carpeta de formación, la compresión se realizó fragmentándola en 3 archivos .rar.
+- Los datos utilizados para entrenar y probar los modelos se obtuvieron de https://www.kaggle.com/datasets/rayhanzamzamy/non-and-biodegradable-waste-dataset
